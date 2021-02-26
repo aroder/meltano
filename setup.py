@@ -8,7 +8,7 @@ with open("VERSION") as version_file:
     version = version_file.read().strip()
 
 requires = [
-    'aiohttp==3.4.4',
+    'aiohttp==3.7.4',
     'alembic==1.0.11',
     'atomicwrites==1.2.1',
     'authlib==0.10',
