@@ -19,7 +19,7 @@ requires = [
     'click-default-group==1.2.1',
     'colorama==0.3.9',
     'gunicorn==19.9.0',
-    'ipython==7.5.0',
+    'ipython==7.16.3',
     'jsonschema==2.6.0',
     'markdown==3.0.1',
     'networkx==2.2',
