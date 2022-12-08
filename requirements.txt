@@ -21,7 +21,7 @@ blinker==1.4
 boto3==1.8.9
 botocore==1.11.9
 Cerberus==1.2
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 Click==7.0
